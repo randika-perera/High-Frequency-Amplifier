@@ -1,0 +1,27 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[lab.GTO]
+   Generated File[lab.GTP]
+   Generated File[lab.GTS]
+   Generated File[lab.GTL]
+   Generated File[lab.GBL]
+   Generated File[lab.GBS]
+   Generated File[lab.GBP]
+   Generated File[lab.GBO]
+   Generated File[lab.GM1]
+   Generated File[lab.GM13]
+   Generated File[lab.GM15]
+   Generated File[lab.GKO]
+   Generated File[lab.GPT]
+   Generated File[lab.GPB]
+   Generated File[lab.GD1]
+   Generated File[lab.RUL]
+   Generated File[lab.EXTREP]
+   Generated File[lab.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 22:29:43 On 24/02/2023
