@@ -1,6 +1,6 @@
 # High-Frequency Amplifier
 
-Welcome to the GitHub repository for our high-frequency headphone amplifier project. The amplifier is specifically tailored for high-frequency operation, making it suitable for various applications in telecommunication, high-speed electronic measurements, laser research, and photonic research.
+Welcome to the GitHub repository for our high-frequency amplifier project. The amplifier is specifically tailored for high-frequency operation, making it suitable for various applications in telecommunication, high-speed electronic measurements, laser research, and photonic research.
 
 ## Project Overview
 
