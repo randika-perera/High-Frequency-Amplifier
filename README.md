@@ -1,4 +1,4 @@
-# High-Frequency Headphone Amplifier
+# High-Frequency Amplifier
 
 Welcome to the GitHub repository for our high-frequency headphone amplifier project. The amplifier is specifically tailored for high-frequency operation, making it suitable for various applications in telecommunication, high-speed electronic measurements, laser research, and photonic research.
 
@@ -22,4 +22,8 @@ The repository contains the following files:
 -   **PCB Files:** Here, you will find all the necessary files for the printed circuit board (PCB) design.
 -   **Enclosure Files:** This directory houses the enclosure design files, ensuring the amplifier is properly housed and protected.
 -   **Project Report:** A comprehensive report detailing the amplifier's design, simulation results, implementation, and performance analysis.
+
+A photograph of the final prototype is given below,
+
+![Amplifier](https://github.com/randika-perera/High-Frequency-Amplifier/assets/129817316/e8411e49-ecdf-4520-93e8-e4336875bebd)
 
